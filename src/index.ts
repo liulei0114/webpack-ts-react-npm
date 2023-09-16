@@ -3,7 +3,7 @@ enum BtnEnum {
   ADD = 1,
   DEL = 2
 }
-const Name = 'liulei best';
+const Name = 'liulei best1';
 interface MyInterface {
   sex: boolean;
 }
